@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_AMSD" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <AMSD>
+    <NAME>ZLOGICAL_DB_SCHEMA</NAME>
+    <VERSION>active</VERSION>
+    <DESCRIPTION>ṫest logical db schema</DESCRIPTION>
+    <LINKS>
+     <item>
+      <HREF>/sap/bc/adt/vit/wb/object_type/trant/object_name/db_schema_map?name=s_log_db_schema_name&amp;value=zlogical_db_schema</HREF>
+      <REL>http://www.sap.com/adt/relations/amsd/mappingtransaction</REL>
+      <TYPE>application/vnd.sap.sapgui</TYPE>
+      <TITLE>SYS</TITLE>
+     </item>
+    </LINKS>
+   </AMSD>
+  </asx:values>
+ </asx:abap>
+</abapGit>
