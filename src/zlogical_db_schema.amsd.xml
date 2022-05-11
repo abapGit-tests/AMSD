@@ -11,7 +11,7 @@
       <HREF>/sap/bc/adt/vit/wb/object_type/trant/object_name/db_schema_map?name=s_log_db_schema_name&amp;value=zlogical_db_schema</HREF>
       <REL>http://www.sap.com/adt/relations/amsd/mappingtransaction</REL>
       <TYPE>application/vnd.sap.sapgui</TYPE>
-      <TITLE>SYS</TITLE>
+      <TITLE>no mapping defined</TITLE>
      </item>
     </LINKS>
    </AMSD>
